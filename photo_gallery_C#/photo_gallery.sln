@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "photo_gallery", "photo_gallery\photo_gallery.csproj", "{2192A7D4-58A3-4051-8A35-55CC32222BAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3A21E7E1-F86C-4AD1-9814-8F1AE253D362}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2192A7D4-58A3-4051-8A35-55CC32222BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2192A7D4-58A3-4051-8A35-55CC32222BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2192A7D4-58A3-4051-8A35-55CC32222BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2192A7D4-58A3-4051-8A35-55CC32222BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
