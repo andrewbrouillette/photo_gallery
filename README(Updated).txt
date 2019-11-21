@@ -5,7 +5,7 @@ This is my photo album project that will show the photo ID, the title of that ph
 This repository has the photo gallery project in both C# and python. 
 
 (C#)
-To run the console application, you must first open the "photo_gallery_C#" folder in your IDE. 
+To run the console application, you must first open the "photo_gallery" solution in your IDE. 
 Run the "photo_gallery.cs" file
 You will then enter a number between 1-100 next to "Photo Album: " in the console.
 
